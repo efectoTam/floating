@@ -1,0 +1,27 @@
+.contenedor{
+	width: 600px;
+	border: 1px solid #CFCFCF;
+	
+}
+
+.cajaamarilla{
+	background-color: yellow;
+	height: 100px;
+	width: 25%;
+	float:left;
+	
+}
+
+.cajaazul{
+	background-color: blue;
+	height: 100px;
+	width: 25%;
+	float:left;
+}
+
+.cajaroja{
+	background-color: red;
+	height: 100px;
+	width: 25%;
+	float:left;
+}
